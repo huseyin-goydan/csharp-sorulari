@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KolaySorular", "KolaySorular", "{AA297759-D4BB-CD0C-5562-36715A287A58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrtalamaHesaplama", "KolaySorular\OrtalamaHesaplama\OrtalamaHesaplama.csproj", "{B73DCA3A-2ACB-C509-0216-A3A88F299D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B73DCA3A-2ACB-C509-0216-A3A88F299D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73DCA3A-2ACB-C509-0216-A3A88F299D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73DCA3A-2ACB-C509-0216-A3A88F299D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73DCA3A-2ACB-C509-0216-A3A88F299D46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B73DCA3A-2ACB-C509-0216-A3A88F299D46} = {AA297759-D4BB-CD0C-5562-36715A287A58}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F0EC4E-6BED-4B15-8A84-8DDBB9B960C4}
+	EndGlobalSection
+EndGlobal
